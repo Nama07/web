@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+.loginform{
+
+    border: 0.5px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    width: 300px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.loginImg{
+    width: 70px;
+    height: auto;
+}
+h4, h2{
+    text-align: center;
+    
+}
+button{
+    background-color: rgb(62, 62, 248);
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+    
+
+}
+
+.vypis{
+    border: 0.5px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    width: 300px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
